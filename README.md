@@ -50,7 +50,7 @@ Recomendaciones para realizar una grabación de calidad: https://docs.google.com
 
 GDG Cloud Santiago se reserva el derecho de no publicar contenido que no cumpla con la calidad y contenido esperado.
 
-C) Github
+D) Github
 
 Realiza un Fork del repositorio y envía un Pull Request para que pueda ser revisado por el equipo y así poder publicar los cambios.
 Si no sabes como realizar estos pasos a continuación te dejamos un tutorial de como realizarlo:
